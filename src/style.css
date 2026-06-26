@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  padding: .5rem;
+  background: black;
+}
+
+header, section {
+  display: flex;
+  width: 100%;
+  height: 9vh;
+  background: black;
+}
+
+.container {
+  border: 1px solid black;
+  border-radius: 20px;
+  background: white;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.name {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: start;
+  border-right: none;
+  border-radius: 0;
+  max-width: 25vw;
+}
+
+p {
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.logo img{
+  height: 18px;
+  margin-top: 2px;
+}
+
+.nav {
+  border-left: none;
+  border-right: none;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  max-width: 50vw;
+}
+
+ul{
+  display: flex;
+  gap: 1rem;
+  font-size: .75rem;
+  font-weight: 800;
+}
+
+.contact {
+  border-left: 0;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  max-width: 25vw;
+}
+
+.contact a {
+  color: #aaa;
+  font-weight: 400;
+}
+
+.contact a.active {
+  color: black;
+  font-weight: 800;
+}
+
+.contact button {
+  font-family: "Inter";
+  background: black;
+  color: white;
+  padding: 1rem 1rem;
+  border-radius: 24px;
+  border-bottom-right-radius: 0;
+  corner-shape: squircle;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+}
+
+button i {
+  margin-top: 2px;
+}
+
+#hero {
+  margin-top: .5rem;
+  border: 1px solid;
+}
+
+#hero .column {
+  height: 88vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.column .container {
+  border: none;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  justify-content: start;
+  align-items: start;
+  font-size: 1.2rem;
+}
+
+.a, .c {
+  max-width: 25vw
+}
+
+.b .container {
+  background: #eee;
+}
+
+.column .tl {
+  border-top-left-radius: 60px;
+}
+
+.column .tr {
+  border-top-right-radius: 60px;
+}
+
+.column .bl {
+  border-bottom-left-radius: 60px;
+}
+
+.column .br {
+  border-bottom-right-radius: 60px;
+}
