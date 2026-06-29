@@ -1,0 +1,169 @@
+/* ---------------------------- CERCHIAI FONT ------------------------------ */
+
+@font-face {
+    font-family: 'Cerchiai';
+    font-weight: 400;
+    src: url(/src/fonts/Cerchiai-Regular.woff2)
+}
+
+@font-face {
+    font-family: 'Cerchiai';
+    font-weight: 300;
+    src: url(/src/fonts/Cerchiai-Light.woff2)
+}
+
+@font-face {
+    font-family: 'Cerchiai';
+    font-weight: 500;
+    src: url(/src/fonts/Cerchiai-Bold.woff2)
+}
+
+/* ---------------------------- ROC GROTESK FONT (NORMAL) ------------------------------ */
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 200;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-thin.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 300;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-light.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 400;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-regular.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 500;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-medium.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 600;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-bold.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 700;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-extrabold.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 800;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-heavy.otf)
+}
+
+@font-face {
+    font-family: 'RocGrotesk';
+    font-weight: 900;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgrotesk-black.otf)
+}
+
+/* ---------------------------- ROC GROTESK FONT (WIDE) ------------------------------ */
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 200;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-thin.otf)
+}
+    
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 300;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-light.otf)
+}
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 400;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-regular.otf)
+}
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 500;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-medium.otf)
+}
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 600;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-bold.otf)
+}
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 700;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-extrabold.otf)
+}
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 800;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-heavy.otf)
+}
+
+@font-face {
+    font-family: 'RocGroteskWide';
+    font-weight: 900;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskwide-black.otf)
+}
+
+/* ---------------------------- ROC GROTESK FONT (EXTRAWIDE) ------------------------------ */
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 200;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-thin.otf)
+}
+    
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 300;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-light.otf)
+}
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 400;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-regular.otf)
+}
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 500;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-medium.otf)
+}
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 600;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-bold.otf)
+}
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 700;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-extrabold.otf)
+}
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 800;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-heavy.otf)
+}
+
+@font-face {
+    font-family: 'RocgroteskExtraWide';
+    font-weight: 900;
+    src: url(/src/fonts/RocGrotesk/Fontspring-DEMO-rocgroteskextrawide-black.otf)
+}
